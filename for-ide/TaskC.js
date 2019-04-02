@@ -214,10 +214,18 @@ class QueueNode {
 }
 
 
-const line1 = readline().trim().replace('\n', '');
-const line2 = readline().trim().replace('\n', '');
-const line3 = readline().trim().replace('\n', '');
-const line4 = readline().trim().replace('\n', '');
+/** входные данные
+ Q
+ a1-h8
+ a2,b1,b2,c2,e5
+ d5,f8,h3
+ выходные данные
+ -1 */
+
+const line1 = 'Q\n'.trim().replace('\n', '');
+const line2 = 'a1-h8\n'.trim().replace('\n', '');
+const line3 = 'a2,b1,b2,c2,e5\n'.trim().replace('\n', '');
+const line4 = 'd5,f8,h3\n'.trim().replace('\n', '');
 
 const parser = new Parser();
 const piece = parser.parsePiece(line1[0]);
