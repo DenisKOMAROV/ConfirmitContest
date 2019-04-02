@@ -1,4 +1,7 @@
 # ConfirmitContest
+
+CAUTION! All code was uploaded AFTER the contest deadline.
+
 Code files are the same as in the codeforces database, but slightly refactored.
 
 Branch 'master' contains code for run on codeforces platform.
