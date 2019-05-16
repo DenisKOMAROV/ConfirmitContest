@@ -1,6 +1,6 @@
 # ConfirmitContest
 
-CAUTION! All code was uploaded on github AFTER the contest deadline.
+Attention! All code was uploaded on github AFTER the contest deadline.
 
 Code files are the same as in the codeforces database, but slightly refactored.
 
